@@ -28,5 +28,5 @@ lms-ai-umain/
 3. Backend API + watsonx integration
 4. Frontend React MVP
 
-**Repo preparado para kickoff!**
+**Repo**
 César | github.com/Ckzar0/lms-ai-umain | Fevereiro 2026
