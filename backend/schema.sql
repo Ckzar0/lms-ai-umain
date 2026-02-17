@@ -1,0 +1,1 @@
+-- Schema PostgreSQL LMS (cole aqui o schema completo)
